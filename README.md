@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+
+Hi, I am Aditya and I am new GitHub.
